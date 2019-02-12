@@ -1,0 +1,13 @@
+1
+0
+255
+128
+0
+255
+128
+0
+128
+64
+Microsoft JhengHei UI
+28
+Regular

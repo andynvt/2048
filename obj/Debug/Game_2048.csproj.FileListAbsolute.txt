@@ -1,0 +1,69 @@
+C:\Users\TUN\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+C:\Users\TUN\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+C:\Users\TUN\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TUN\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.Form1.resources
+C:\Users\TUN\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.Properties.Resources.resources
+C:\Users\TUN\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.GenerateResource.Cache
+C:\Users\TUN\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+C:\Users\TUN\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
+C:\Users\TUN\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.frmKet_Thuc.resources
+C:\Users\TUN\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.frmHuong_Dan.resources
+E:\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+E:\Documents\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\ResolveAssemblyReference.cache
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.Form1.resources
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.frmHuong_Dan.resources
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.frmKet_Thuc.resources
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.Properties.Resources.resources
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.GenerateResource.Cache
+E:\1-Projects\Visual Studio 2008\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.frmThanh_Tich.resources
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\obj\Debug\Game_2048.Form1.resources
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\obj\Debug\Game_2048.frmHuong_Dan.resources
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\obj\Debug\Game_2048.frmKet_Thuc.resources
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\obj\Debug\Game_2048.frmThanh_Tich.resources
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\obj\Debug\Game_2048.Properties.Resources.resources
+C:\Users\Tun\OneDrive\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.GenerateResource.Cache
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\obj\Debug\Game_2048.Form1.resources
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\obj\Debug\Game_2048.frmHuong_Dan.resources
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\obj\Debug\Game_2048.frmKet_Thuc.resources
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\obj\Debug\Game_2048.frmThanh_Tich.resources
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\obj\Debug\Game_2048.Properties.Resources.resources
+C:\Users\Tun\Downloads\Compressed\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.GenerateResource.Cache
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\bin\Debug\Game_2048.exe.config
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.csprojResolveAssemblyReference.cache
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.Form1.resources
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.frmHuong_Dan.resources
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.frmKet_Thuc.resources
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.frmThanh_Tich.resources
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.Properties.Resources.resources
+C:\Users\Boss Kha\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.GenerateResource.Cache
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\bin\Debug\Game_2048.exe.config
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\obj\Debug\Game_2048.csprojResolveAssemblyReference.cache
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\obj\Debug\Game_2048.Form1.resources
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\obj\Debug\Game_2048.Properties.Resources.resources
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\obj\Debug\Game_2048.csproj.GenerateResource.Cache
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\obj\Debug\Game_2048.frmHighScore.resources
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\obj\Debug\Game_2048.frmAbout.resources
+D:\Ebook\1496A1 - B1400722\C#\Game_2048\Game_2048\obj\Debug\Game_2048.frmOverGame.resources
